@@ -1,19 +1,19 @@
-// LearningC++.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
-//
-
 #include <iostream>
+#include <string> 
+#include <cmath>
+
+using namespace std; //utilizando esta librebria no hace falta ponerla delante del cout std::cout
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << sqrt(64) << "\n"; //raiz cuadrada, estas requieren #include <cmath> para poder utilizarse 
+    cout << round(2.6) << "\n"; //redondear
+    cout << log(2) << "\n"; //logarismo
+
+    string fullName;
+    cout << "Type your full name: ";
+    getline (cin, fullName); // requiere #include <string> para funcionar, getline respeta os espacios, sin el solo pillaria el primer string
+    cout << "Your name is: " << fullName;
+
+    return 0;
 }
-
-// Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
-// Depurar programa: F5 o menú Depurar > Iniciar depuración
-
-// Sugerencias para primeros pasos: 1. Use la ventana del Explorador de soluciones para agregar y administrar archivos
-//   2. Use la ventana de Team Explorer para conectar con el control de código fuente
-//   3. Use la ventana de salida para ver la salida de compilación y otros mensajes
-//   4. Use la ventana Lista de errores para ver los errores
-//   5. Vaya a Proyecto > Agregar nuevo elemento para crear nuevos archivos de código, o a Proyecto > Agregar elemento existente para agregar archivos de código existentes al proyecto
-//   6. En el futuro, para volver a abrir este proyecto, vaya a Archivo > Abrir > Proyecto y seleccione el archivo .sln
