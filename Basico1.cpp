@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std; //utilizando esta librebria no hace falta ponerla delante del cout std::cout
 
@@ -7,6 +8,7 @@ bool boolEjemplo = true;
 
 int main()
 {
+    //MENSAJES BASICOS EN PANTALLA
     cout << "Hello World!\n"; //\n para salto de linea
     cout << 56; //para numero no hace falta las comillas
     cout << variableEjemplo << endl; //para mostrar la variable tampoco endl es lo mismo que \n
@@ -14,6 +16,7 @@ int main()
 
     cout << "El numero es " << variableEjemplo << "\n";
 
+    //TABLA
     int a = 45;
     float b = 45.323;
     double c = 45.5468;
@@ -29,6 +32,7 @@ int main()
     cout << aa << "\t" << bb << "\t" << cc << "\n";
     cout << aaa << "\t" << bbb << "\t" << ccc << "\n";
 
+    //OBTENER ELEMENTOS DE UN STRING
     string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     cout << "The length of the txt string is: " << txt.length() << "\n";
     cout << txt[4] << "\n"; //saca en pantalla la letra en posicion 5
@@ -36,6 +40,7 @@ int main()
     txt[0] = '7'; //modifica el de la posicion
     cout << txt << "\n";
 
+    //SUMA BASICA PIDINEDO DOS NUEMROS
     int x, y;
     int sum;
     cout << "Primer num ";
@@ -44,4 +49,18 @@ int main()
     cin >> y;
     sum = x + y;
     cout << sum;
+
+    //OPERACIONES 
+    cout << sqrt(64) << "\n"; //raiz cuadrada, estas requieren #include <cmath> para poder utilizarse 
+    cout << round(2.6) << "\n"; //redondear
+    cout << log(2) << "\n"; //logarismo
+
+    //IF / ELSE y MANERA CORTA EN HACERLO CON ? 
+    int time = 20;
+
+    if (time < 18) cout << "Good day." << "\n";
+    else  cout << "Good evening." << "\n";
+
+    string result = (time < 18) ? "Good day." : "Good evening."; //la primera se refiere a true y la segnda a false lo que esta antes del interrogante
+    cout << result << "\n";
 }

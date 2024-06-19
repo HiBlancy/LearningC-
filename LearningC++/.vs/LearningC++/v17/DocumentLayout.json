@@ -5,6 +5,15 @@
     {
       "AbsoluteMoniker": "D:0:0:{A00C2DEA-B4F3-46AF-A69A-2262513200DF}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A00C2DEA-B4F3-46AF-A69A-2262513200DF}|LearningC\u002B\u002B\\LearningC\u002B\u002B.vcxproj|solutionrelative:LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +23,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Basico3.cpp",
+              "DocumentMoniker": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico3.cpp",
+              "RelativeDocumentMoniker": "..\\Basico3.cpp",
+              "ToolTip": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico3.cpp",
+              "RelativeToolTip": "..\\Basico3.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T13:41:40.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basico1.cpp",
+              "DocumentMoniker": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico1.cpp",
+              "RelativeDocumentMoniker": "..\\Basico1.cpp",
+              "ToolTip": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico1.cpp",
+              "RelativeToolTip": "..\\Basico1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T15:59:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basico2.cpp",
+              "DocumentMoniker": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico2.cpp",
+              "RelativeDocumentMoniker": "..\\Basico2.cpp",
+              "ToolTip": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\Basico2.cpp",
+              "RelativeToolTip": "..\\Basico2.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-18T15:57:40.656Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +70,7 @@
               "RelativeDocumentMoniker": "LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
               "ToolTip": "C:\\Users\\ievar\\Desktop\\C\u002B\u002B\\LearningCpp\\LearningC\u002B\u002B\\LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
               "RelativeToolTip": "LearningC\u002B\u002B\\LearningC\u002B\u002B.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-18T13:10:07.37Z",
               "EditorCaption": ""
