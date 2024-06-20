@@ -55,6 +55,16 @@ int main()
     cout << round(2.6) << "\n"; //redondear
     cout << log(2) << "\n"; //logarismo
 
+    //POTENCIA
+    float ejemPot1 = 4.0;
+    float ejemPot2 = 6.0;
+    float resultadoPot = 0;
+    resultadoPot = pow(ejemPot1, ejemPot2); //Utilizar pow(base, exoponente)
+
+    //PI -> M_PI
+
+    cout << "Resultado de potencia " << resultadoPot;
+
     //IF / ELSE y MANERA CORTA EN HACERLO CON ? 
     int time = 20;
 

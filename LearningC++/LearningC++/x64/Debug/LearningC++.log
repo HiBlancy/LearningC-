@@ -1,2 +1,3 @@
 ﻿  LearningC++.cpp
+C:\Users\ievar\Desktop\C++\LearningCpp\LearningC++\LearningC++\LearningC++.cpp(16,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   LearningC++.vcxproj -> C:\Users\ievar\Desktop\C++\LearningCpp\LearningC++\x64\Debug\LearningC++.exe
